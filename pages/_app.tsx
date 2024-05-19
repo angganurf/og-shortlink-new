@@ -33,6 +33,11 @@ function MyApp({ Component, pageProps }: AppProps) {
             width: 500,
             height: 500,
           },
+          {
+            url: '/playbutton.png' || DefaultMeta.image,
+            width: 500,
+            height: 500,
+          },
         ],
       }}
       twitter={{
